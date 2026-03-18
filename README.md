@@ -101,7 +101,7 @@ Example queries:
 ## ▶️ Run the Dashboard
 
 ```bash
-streamlit run src/main.py
+streamlit run app/dashboard.py
 ```
 
 ## ⭐ Why This Project Stands Out
