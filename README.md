@@ -47,6 +47,16 @@ QuantVision simulates a **quantitative trading research tool**, enabling users t
 
 <img width="1913" height="1079" alt="Screenshot 2026-03-19 004045" src="https://github.com/user-attachments/assets/abaa968b-03e3-4784-9f34-c8965236ac4a" />
 
+## 🎥 Demo Video
+
+Watch QuantVision in action:
+
+
+
+https://github.com/user-attachments/assets/a0634440-e943-4c3b-b991-b8198c292fae
+
+
+
 
 ## 🤖 Machine Learning Model
 
